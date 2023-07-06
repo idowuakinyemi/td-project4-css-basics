@@ -1,0 +1,100 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+header nav ul{
+    float: right;
+    position: relative;
+
+
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 3em;
+    
+}
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+
+}
+header nav{
+    background-color:rgba(77, 154, 174, 255);
+    padding-left: 5em;
+    padding-right: 5em;
+    
+}
+#first-sect{
+    margin-top: 70px;
+    text-align: center;
+    
+
+}
+#first-sect h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgba(77, 154, 174, 255);
+}
+#first-sect img{
+    width:100px;
+    height:100px;
+}
+.second-sect{
+    background-color: rgba(77, 154, 174, 255);
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    padding-right: 200px;
+    color: white;
+    
+    
+
+}
+.third{
+    padding-top: 30px;
+    padding: 80px;
+   
+}
+.third-sect{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    
+    text-align: center;
+
+    
+    color: white;
+   
+}
+.third-doc{
+    
+   background-color:  rgba(51, 74,84, 255);
+}
+.third h1{
+    color: rgba(77, 154, 174, 255);;
+}
+.forth{
+    text-align: center;
+    background-color: rgba(77, 154, 174, 255);
+    color: white;
+    padding-top: 20px;
+    font-weight: bold;
+    padding-bottom: 30px;
+
+
+}
+/* .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  } */
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
