@@ -93,8 +93,8 @@ header nav{
     text-align: center;
     text-decoration: none;
   } */
-
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
+  .fa-brands{
+    justify-content: space-between;
   }
+
+ 
